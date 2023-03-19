@@ -5,13 +5,13 @@ public class Lecture01 {
         //기본형(primitive type)
         
         //정수형
-        byte n1 = 1;
-        short n2 = 2;
-        int n3 = 3;
-        long n4 = 4L;
+        byte n1 = 111;
+        short n2 = 11111;
+        int n3 = 1111111111;
+        long n4 = 1111111111L;
 
         //실수형
-        float fn = 11f;
+        float fn = 11.0f;
         double dn = 22.0;
 
         //문자형
